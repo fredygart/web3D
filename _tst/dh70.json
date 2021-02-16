@@ -1,5 +1,5 @@
 {
-0:{
+"0":{
     "name":"Victor",
     "age":21,
     "pets":[
@@ -8,7 +8,7 @@
         { "animal":"hamster", "name":"Lightning" }
     ]
 },
-2:{
+"2":{
     "name":"Matt",
     "age":31,
     "pets":[
