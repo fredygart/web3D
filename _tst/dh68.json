@@ -1,4 +1,4 @@
-{
+var obb = {
 0:{
     "name":"Victor",
     "age":21,
